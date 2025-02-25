@@ -2,6 +2,7 @@
 
 # Путь к папке с репозиторием
 REPO_DIR=~/mygit
+# chmod +x git_auto_push.sh
 
 # Переходим в папку с репозиторием
 cd $REPO_DIR || exit

@@ -16,7 +16,7 @@ alias gputemp='watch -n 1 sensors'
 alias nvim='sudo -E nvim'
 
 #screenshot
-alias sc='grim -g "$(slurp)" screenshot.png'
+#alias sc='grim -g "$(slurp)" screenshot.png'
 
 #fastfetch
 fastfetch
